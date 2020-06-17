@@ -5,6 +5,7 @@
   "main": "",
   "module": "",
   "types": "",
+  "type": "module",
   "scripts": {
     "changelog": "conventional-changelog -p custom-config-2 -i CHANGELOG.md -s -r 0",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -32,8 +33,10 @@
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
+    "esm": "^3.2.25",
     "husky": "^4.2.5",
     "prettier": "^2.0.5",
+    "ts-node": "^8.10.2",
     "typescript": "^3.8.3"
   },
   "husky": {

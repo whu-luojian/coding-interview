@@ -37,7 +37,7 @@
     "skipLibCheck": true,
     "experimentalDecorators": true, // 启用装饰器
     "esModuleInterop": true,
-    "sourceMap": true
+    "sourceMap": false
   },
   "include": [
     "src/**/*.ts",
