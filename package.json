@@ -5,7 +5,6 @@
   "main": "",
   "module": "",
   "types": "",
-  "type": "module",
   "scripts": {
     "changelog": "conventional-changelog -p custom-config-2 -i CHANGELOG.md -s -r 0",
     "test": "echo \"Error: no test specified\" && exit 1"
