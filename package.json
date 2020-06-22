@@ -1,7 +1,7 @@
 {
   "name": "coding-interview",
   "version": "1.0.0",
-  "description": "A empty project with eslint、commitlint、typescript",
+  "description": "the notes of Grokking the Coding Interview: Patterns for Coding Questions",
   "main": "",
   "module": "",
   "types": "",
@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "vue",
-    "component"
+    "interview",
+    "algorithm"
   ],
   "author": "whu-luojian",
   "license": "MIT",
