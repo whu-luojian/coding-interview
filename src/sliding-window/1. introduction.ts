@@ -1,6 +1,6 @@
 /**
  * 题目：
- * 给定一个数组，输出尺寸为K的连续子数组的平均组
+ * 给定一个数组，输出由连续K个子元素组成的数组的平均数数组
  * Given an array, find the average of all contiguous subarrays of size ‘K’ in it.
  * Array: [1, 3, 2, 6, -1, 4, 1, 8, 2], K=5
  */
