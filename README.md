@@ -3,7 +3,7 @@
 > the notes of [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 
 ## 运行
-1. 按照 `ts-node`, `esm`
+1. install `ts-node`, `esm`
 ```
 yarn add ts-node esm -D
 ```
