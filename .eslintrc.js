@@ -18,6 +18,9 @@ module.exports = {
 		'eol-last': 'error',
 		'object-curly-spacing': ['error', 'always'],
 		'@typescript-eslint/camelcase': 'off',
+		'@typescript-eslint/no-explicit-any': 'off',
+		'@typescript-eslint/interface-name-prefix': 'off',
+		'@typescript-eslint/interface-name-prefix': 'off',
 		'prettier/prettier': [
       'warn',
       {
