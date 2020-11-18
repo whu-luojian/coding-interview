@@ -3,7 +3,7 @@
  * 给定一个单链表，判断链表是否有环
  */
 
-class LNode {
+export class LNode {
   public value: any
   public next: LNode | null
   constructor(value: any, next = null) {

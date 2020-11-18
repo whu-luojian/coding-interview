@@ -21,6 +21,7 @@ module.exports = {
 		'@typescript-eslint/no-explicit-any': 'off',
 		'@typescript-eslint/interface-name-prefix': 'off',
 		'@typescript-eslint/interface-name-prefix': 'off',
+		'@typescript-eslint/ban-ts-ignore': 'off',
 		'prettier/prettier': [
       'warn',
       {
